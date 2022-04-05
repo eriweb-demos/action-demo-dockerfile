@@ -1,0 +1,5 @@
+name: 'Dockerfile demo'
+description: 'Demo action demonstrating dockerfile'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
